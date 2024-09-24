@@ -66,7 +66,7 @@ section h2 {
 .gallery img {
     margin: 10px;
     width: 200px;
-    height: 150px;
+    height: auto;
     object-fit: cover;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
